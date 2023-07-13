@@ -2,7 +2,7 @@ hello! welcome git! zhang
 hello! welcome git! mastr
 hello! welcome git! hotfix`
 hello! welcome git!
-hello! welcome git!
+hello! welcome git! error hot-fix
 hello! welcome git!
 hello! welcome git!
 hello! welcome git!
