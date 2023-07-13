@@ -1,7 +1,7 @@
 hello! welcome git! zhang
 hello! welcome git! mastr
 hello! welcome git! hotfix`
-hello! welcome git!
+hello! welcome git! error mastr
 hello! welcome git!
 hello! welcome git!
 hello! welcome git!
